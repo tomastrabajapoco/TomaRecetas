@@ -1,2 +1,0 @@
-# TomaRecetas
-Libro de recetas
