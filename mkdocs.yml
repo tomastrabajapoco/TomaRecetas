@@ -1,1 +1,17 @@
 site_name: My Docs
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+
