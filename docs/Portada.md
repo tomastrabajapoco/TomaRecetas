@@ -11,6 +11,6 @@ Aquí encontrarás recetas claras, organizadas y fáciles de seguir.
 - Postres
 
 ##  Receta destacada
-- [Pollo con verduras](pollo.md)
+- [Pollo con verduras](Pollo con verduras.md)
 
 ¡Buen provecho!
