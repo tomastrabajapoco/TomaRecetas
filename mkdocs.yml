@@ -1,7 +1,7 @@
 site_name: Recetario
 
 nav:
-  - Inicio: Portada.md
+  
   - Recetas:
       - Pollo con verduras: Pollo con verduras.md
 
