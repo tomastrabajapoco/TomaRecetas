@@ -1,16 +1,16 @@
-# 🍽️ TomaRecetas
+# TomaRecetas
 
 Bienvenido a **TomaRecetas**, tu libro digital de cocina.
 
 Aquí encontrarás recetas claras, organizadas y fáciles de seguir.
 
-## 📚 Categorías
+## Categorías
 - Platos principales
 - Verduras y guarniciones
 - Salsas
 - Postres
 
-## ⭐ Receta destacada
+##  Receta destacada
 - [Pollo con verduras](pollo.md)
 
 ¡Buen provecho!
