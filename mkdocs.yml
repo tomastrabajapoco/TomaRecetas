@@ -1,4 +1,6 @@
 site_name: Recetario
+nav:
+  - Inicio: Pollo con verduras.md
 theme:
   name: material
   palette:
