@@ -8,6 +8,7 @@ nav:
       - Garbanzos: garbanzos.md
       - Arroz con leche: arrozleye.md
       - Bechamel: bechamel.md
+      - Aftica: africa.md
 
 theme:
   name: material
