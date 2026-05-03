@@ -2,4 +2,4 @@
 
 Alcoholica
 
-![afriquita](africa.jpg)
+![afriquita](fotos/africa.jpg)
