@@ -1,7 +1,7 @@
 # Recetario
 
 ## Indice
-
+---
 ### Platos principales
 #### Pastas
 - [Lasagna de carne](Lasagna.md)
@@ -17,3 +17,4 @@
 
 ### Elaboraciones 
 - [Bechamel](bechamel.md)
+---

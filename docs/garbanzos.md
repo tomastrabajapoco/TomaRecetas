@@ -1,5 +1,5 @@
 # Cocido
-
+---
 ## Ingredientes
 
 - 300gr de garbanzos
@@ -15,7 +15,7 @@
 - 3 0 4 muslos de pollo
 - Chorizo
 - (Opcional) Morzilla
-
+---
 ## Preparación
 
 1. Dejar en remojo los garbanzos la noche de antes o 12 horas.
@@ -31,6 +31,5 @@
 6. Quitar la espuma que salga con una espumadera. Cuando empiece a hervir, dejarlo hasta que no salga más espuma.
 
 7. Taparlo y dejarlo a fuego medio-bajo al menos 2 horas y 15 minutos, hasta que el garbanzo esté a tu gusto. Por último, echarle sal.
-
-## Foto
+---
 ![cocido](fotos/cocido.jpg)
