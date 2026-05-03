@@ -8,7 +8,7 @@
 - 2 pechugas de pollo  
 - Puerro  
 - Trozos de apio (opcional)
-
+---
 ## Preparación
 
 1. Cortar las verduras en orden mientras calientas una sartén. Las zanahorias y las cebollas van primero; cuando el aceite esté caliente, las echas al fuego.
@@ -24,6 +24,3 @@
 6. El pollo también soltará líquido. Dejar reducir hasta obtener la cantidad de caldo deseada.
 
 7. Dejar caldo al gusto. 
-
-## Foto
-*(Insertar imagen aquí)*
