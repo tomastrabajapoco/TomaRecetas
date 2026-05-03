@@ -9,6 +9,9 @@
 #### Carnes
 - [Pollo con verduras](Pollo%20con%20verduras.md)
 
+#### Pucheros
+- [Cocido](garbanzos.md)
+
 ### Postres
 - [Arroz con leche](arrozleye.md)
 
