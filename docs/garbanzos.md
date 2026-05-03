@@ -1,5 +1,5 @@
 # Cocido
----
+
 ## Ingredientes
 
 - 300gr de garbanzos

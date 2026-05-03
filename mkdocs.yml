@@ -5,7 +5,9 @@ nav:
   - Recetas:
       - Pollo con verduras: Pollo con verduras.md
       - Lasagna: Lasagna.md
-      - bechamel: bechamel.md
+      - Garbanzos: garbanzos.md
+      - Arroz con leche: arrozleye.md
+      - Bechamel: bechamel.md
 
 theme:
   name: material

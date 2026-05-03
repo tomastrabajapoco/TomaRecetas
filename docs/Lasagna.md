@@ -14,6 +14,7 @@
 - 500ml leche 
 - 9 Placas lasaña
 
+---
 ## Preparación
 
 1. En una olla, poner a hervir el tomate triturado a fuego medio-alto.
@@ -34,5 +35,5 @@
 
 9. Meter la lasaña al horno tapada con papel albal, 15–20 min. Sacarla, poner queso y dejarla 5 min más con la opción de gratinar.
 
-## Foto
+---
 ![Bechamel](fotos/lasagna.jpg)

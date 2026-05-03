@@ -8,7 +8,7 @@
 - 100gr de azúcar 
 - 175gr de arroz
 - Aroma de vainilla 
-
+---
 ## Preparación
 
 1. Calentar en una olla el litro de leche con 2 o 3 ramas de canela (al gusto) y 2 trozos de cáscara de limón sin la parte blanca.
@@ -25,10 +25,9 @@
 
 7. Ahora se echa el azúcar y un chorro de vainilla. Remover bien para que se integre y dejarlo con el espesor al gusto.
 
+---
 ## Notas
 El tipo de arroz que utilizo es el vaporizado, es con el único que he probado. El basmati no lo voy a probar: si se pasa, se vuelve muy pastoso.
 Si no tienes vainilla, echa 200gr de azúcar. Uso la vainilla como saborizante y edulcorante para sustituir un poco de azúcar.
 Otro consejo: utiliza un recipiente cuanto más amplio, mejor, porque al reposar el arroz se crea en la superficie una capa con la grasa que tiene más sabor.
-
-## Foto
-*(Insertar imagen aquí)*
+---
