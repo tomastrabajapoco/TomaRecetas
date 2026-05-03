@@ -31,5 +31,6 @@
 6. Quitar la espuma que salga con una espumadera. Cuando empiece a hervir, dejarlo hasta que no salga más espuma.
 
 7. Taparlo y dejarlo a fuego medio-bajo al menos 2 horas y 15 minutos, hasta que el garbanzo esté a tu gusto. Por último, echarle sal.
+
 ---
 ![cocido](fotos/cocido.jpg)
