@@ -19,3 +19,5 @@ Necesitas los paquetes python mkdocs y mkdos-material, te recomiendo crearte un 
 Finalmente para crear una nueva entrada:
 - Archivo en /docs/
 - Poner la nueva entrada en mkdocs.yml y en index.md
+- Subes los cambios a git
+- Ejecutas mkdocs gh-deploy
