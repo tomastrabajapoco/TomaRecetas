@@ -23,4 +23,4 @@
 5. Remover con fuego medio y ya lo tienes. Simple
 
 ---
-![tallarines](fotos/tallarines.jpg)
+![tallarines](fotos/tallarines.jpeg)

@@ -9,6 +9,7 @@ nav:
       - Arroz con leche: arrozleye.md
       - Bechamel: bechamel.md
       - Zarza: zarza.md
+      - Tallarines Teriyaki: fideos_teriyaki.md
 
 theme:
   name: material
