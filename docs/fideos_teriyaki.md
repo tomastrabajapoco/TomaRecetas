@@ -12,13 +12,13 @@
 ---
 ## Preparación
 
-1. Cortar las verduras y cebolla y hacerlas a la sarten
+1. Cortar las verduras y la cebolla, y hacerlas en la sartén.
 
-2. Cuando esten blandicas, le metes la carne. Para desglosar, puedes echarle vino blanco
+2. Cuando estén blandicas, añadir la carne. Para desglasar, puedes echarle vino blanco.
 
-3. En una olla haces los tallarines.
+3. En una olla, hacer los tallarines. Si lo haces antes de tener las verduras se van a quedar pegados al pasar los minutos.
 
-4. Cuando tengas todo hecho, lo mezclas en la olla de los tallarines, sin el agua hiv¡rviendo claro esta, y le echas salsa teriyaki al gusto de consumidor, normalmente si echas todo el paquete de tallarnes suele ser un poco más de la mitad
+4. Cuando tengas todo hecho, lo mezclas en la olla de los tallarines, sin el agua hirviendo, y le echas salsa teriyaki al gusto de consumidor. Normalmente, si echas todo el paquete de tallarines, suele ser un poco más de la mitad del bote.
 
 5. Remover con fuego medio y ya lo tienes. Simple
 

@@ -10,8 +10,8 @@
 - Pan duro
 - Almendras
 - 2 dientes de ajo
-- Vino de concina
-- [Pimiento deshidatado](https://finditapp.es/product/7567723/pimientos-secos-hacendado)
+- Vino de cocina
+- [Pimiento deshidratado](https://finditapp.es/product/7567723/pimientos-secos-hacendado)
 
 ---
 ## Preparación

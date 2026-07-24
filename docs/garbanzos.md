@@ -10,11 +10,11 @@
 - Espinazo de cerdo
 - Hueso de jamón
 - Hueso de vaca o de tu madre
-- (Opcional) Hueso saladao
+- (Opcional) Hueso salado
 - Carcasa de pollo
 - 3 0 4 muslos de pollo
 - Chorizo
-- (Opcional) Morzilla
+- (Opcional) Morcilla
 ---
 ## Preparación
 

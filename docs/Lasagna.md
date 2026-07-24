@@ -12,12 +12,12 @@
 - 50gr mantequilla
 - 50gr harina
 - 500ml leche 
-- 9 Placas lasaña
+- 9 Placas lasagna
 
 ---
 ## Preparación
 
-1. En una olla, poner a hervir el tomate triturado a fuego medio-alto.
+1. En una olla, poner a hervir el tomate triturado a fuego medio-alto. Cortar y picar las verduras y la carne en trozos pequeños para lograr una homogeneidad y consistencia en el resultado final.
 
 2. Mientras, en una sartén sofríes las verduras. Cuando tengan color, a la olla con el tomate.
 
@@ -33,7 +33,7 @@
 
 8. Orden para montar la lasagna: salsa → placa → salsa → bechamel → queso → placa → salsa → bechamel → placa → salsa → bechamel. Un consejo: haz capas con poca cantidad para que tenga mejor forma y consistencia.
 
-9. Meter la lasaña al horno tapada con papel albal, 15–20 min. Sacarla, poner queso y dejarla 5 min más con la opción de gratinar.
+9. Meter la lasagna al horno tapada con papel albal 15–20 min (si es posible, que el papel albal no toque la capa superior porque se va a pegar). Sacarla, poner queso y dejarla 5 min más con la opción de gratinar.
 
 ---
 ![Bechamel](fotos/lasagna.jpg)
