@@ -1,4 +1,5 @@
 site_name: Recetario
+site_url: https://recetas.tomasocio.es
 
 nav:
   - Inicio: index.md
