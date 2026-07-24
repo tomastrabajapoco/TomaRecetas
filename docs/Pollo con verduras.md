@@ -24,3 +24,6 @@
 6. El pollo también soltará líquido. Dejar reducir hasta obtener la cantidad de caldo deseada.
 
 7. Dejar caldo al gusto. 
+
+---
+![polloverduras](fotos/polloverduras.jpg)
