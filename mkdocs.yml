@@ -11,6 +11,7 @@ nav:
       - Bechamel: bechamel.md
       - Zarza: zarza.md
       - Tallarines Teriyaki: fideos_teriyaki.md
+      - Lentejas: lentejas.md
 
 theme:
   name: material

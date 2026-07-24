@@ -13,6 +13,7 @@
 
 #### Pucheros
 - [Cocido](garbanzos.md)
+- [Lentejas](lentejas.md)
 
 ### Postres
 - [Arroz con leche](arrozleye.md)
