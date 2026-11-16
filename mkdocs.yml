@@ -12,7 +12,7 @@ nav:
       - Zarza: zarza.md
       - Tallarines Teriyaki: fideos_teriyaki.md
       - Lentejas: lentejas.md
-      - Puré de Calabaza: pure_calabaza.md
+      - Puré de Calabaza: purecalabaza.md
 
 theme:
   name: material
