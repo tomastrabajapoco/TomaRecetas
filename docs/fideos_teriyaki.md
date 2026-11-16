@@ -1,4 +1,4 @@
-# Tallarines con salsa teriyaki
+# Tallarines con Salsa Teriyaki
 
 ## Ingredientes
 

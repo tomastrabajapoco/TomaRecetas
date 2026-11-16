@@ -1,4 +1,4 @@
-# Lasagna de carne
+# Lasagna de Carne
 
 - Más o menos para 4 personas. Recomiendo hacerla y dejarla reposar mínimo 5 o 6 horas; ni te cuento si es para el día siguiente.
 

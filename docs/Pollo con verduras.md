@@ -1,4 +1,4 @@
-# Pollo con verduras
+# Pollo con Verduras
 
 ## Ingredientes
 

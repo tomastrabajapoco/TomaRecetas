@@ -1,4 +1,4 @@
-# Arroz con leche
+# Arroz con Leche
 
 ## Ingredientes
 

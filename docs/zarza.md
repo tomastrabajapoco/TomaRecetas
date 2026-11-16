@@ -1,4 +1,4 @@
-# Conejo con salsa de almendras (Zarza)
+# Conejo con Salsa de Almendras (Zarza)
 
 - Receta de mi abuela Paquita del pueblo, puede ser conejo, pavo o pollo.
 
