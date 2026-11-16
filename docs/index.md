@@ -16,7 +16,7 @@
 - [Lentejas](lentejas.md)
 
 #### Purés
-- [Puré de calabaza]
+- [Puré de calabaza](purecalabaza.md)
 
 ### Postres
 - [Arroz con Leche](arrozleye.md)
