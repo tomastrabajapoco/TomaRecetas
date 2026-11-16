@@ -4,14 +4,15 @@ site_url: https://recetas.tomasocio.es
 nav:
   - Inicio: index.md
   - Recetas:
-      - Pollo con verduras: Pollo con verduras.md
+      - Pollo con Verduras: Pollo con verduras.md
       - Lasagna: Lasagna.md
       - Garbanzos: garbanzos.md
-      - Arroz con leche: arrozleye.md
+      - Arroz con Leche: arrozleye.md
       - Bechamel: bechamel.md
       - Zarza: zarza.md
       - Tallarines Teriyaki: fideos_teriyaki.md
       - Lentejas: lentejas.md
+      - Puré de Calabaza: pure_calabaza.md
 
 theme:
   name: material
